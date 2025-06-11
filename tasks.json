@@ -4,5 +4,11 @@
     "title": "Study for Rust exam",
     "description": "Study and understand the 9 questions from the \"exam questions\" file and relate them to this Command Line app",
     "status": "Todo"
+  },
+  {
+    "id": 3,
+    "title": "Buy grocceries and stuff",
+    "description": "Mom said get groceries",
+    "status": "Todo"
   }
 ]
