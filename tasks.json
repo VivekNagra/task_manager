@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1,
+    "title": "Study for Rust exam",
+    "description": "Study and understand the 9 questions from the \"exam questions\" file and relate them to this Command Line app",
+    "status": "Todo"
+  }
+]
